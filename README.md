@@ -1,2 +1,3 @@
 unity Code Warehouse ~
-https://a5988aaa.gitbook.io/ocoe_unity_note/
+1. https://a5988aaa.gitbook.io/ocoe_unity_note/
+2. change Branches to master
