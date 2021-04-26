@@ -2,7 +2,7 @@
 
 * [【OCOE筆記】Unity Android 實機運行Log監測](【OCOE筆記】Unity_Android實機運行Log監測.md)
 * [【OCOE筆記】FBX格式和obj格式的分別](untitled.md)
-* [【OCOE筆記】Oculus GO/Quest app file path](ocoe-bi-ji-oculus-goquest-app-file-path.md)
+* [【OCOE筆記】Oculus GO/Quest app file path](【OCOE筆記】Oculus  app file path.md)
 * [【OCOE筆記】VR手把震動力回饋\(\(待續](ocoe-bi-ji-vr-shou-ba-zhen-dong-li-hui-kui-dai-xu.md)
 * [Unity - 各平台檔案路徑\(收集整理中\)](unity-ge-ping-tai-dang-an-lu-jing.md)
 * [texture2d翻轉 \(整理中\)](texture2d-fan-zhuan-zheng-li-zhong.md)
