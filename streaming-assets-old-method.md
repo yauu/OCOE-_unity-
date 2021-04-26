@@ -14,5 +14,5 @@ To read streaming Assets on platforms like Android and **WebGL**
 
 On many platforms, the streaming assets folder location is read-only; you can not modify or write new files there at runtime. Use [Application.persistentDataPath](https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html) for a folder location that is writable.
 
-**Note**: .dll and script files located in the **StreamingAssets** folder don’t participate in the script compilation.
+**Note**: .dll and script files located in the **StreamingAssets** folder don’t participate in the script compilation. 
 
