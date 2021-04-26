@@ -4,7 +4,7 @@ description: >-
   [SerializeField]表示将原本不会被序列化的私有变量和保护变量变成可以被序列化的，那么它们在下次读取的值就是你上次赋值的值。
 ---
 
-# 序列化區塊\(整理中\)
+# 【OCOE筆記】序列化SerializeField介紹
 
 ##        **1、如果a是公有的序列化变量。**Getting Super Powers
 
