@@ -1,4 +1,4 @@
-# shader Learn\(整理中\)
+# shader Learn簡易節錄
 
 ## 推薦學習
 
