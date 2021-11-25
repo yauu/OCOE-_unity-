@@ -2,8 +2,8 @@
 
 
 # 簡介
-Phaser 是開源的 Javascript 遊戲框架，支援 WebGL 與 Canvas 渲染模式，
-可在電腦與手機的 Web 瀏覽器運行，支援物理運算、碰撞及動畫等遊戲常用方法。
+Phaser 是開源的 Javascript 遊戲框架，支援 WebGL 與 Canvas 渲染，
+常用於 Web 瀏覽器，並支援物理運算、碰撞及動畫等遊戲。
 https://phaser.io/
 
 # 資源
