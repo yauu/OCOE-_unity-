@@ -26,6 +26,10 @@ https://www.patchesoft.com/phaser-3-loading-screen
 ## 官方線上 Sample 展示
 https://phaser.io/examples/v3
 
+
+##辨識圖10個注意事項
+https://medium.com/chialab-open-source/10-tips-to-enhance-your-ar-js-app-8b44c6faffca
+
 ---
  只是倉庫筆記
 ---
